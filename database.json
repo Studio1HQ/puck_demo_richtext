@@ -1,1 +1,1 @@
-{"/":{"content":[{"type":"HeadingBlock","props":{"title":"Edit this page by adding /edit to the end of the URL","id":"HeadingBlock-1694032984497"}}],"root":{"props": {"title":""}}}}
+{"/":{"root":{"props":{"title":""}},"content":[{"type":"HeadingBlock","props":{"title":"Title","id":"HeadingBlock-1694032984497"}},{"type":"RichTextBlock","props":{"id":"RichTextBlock-70117e80-147b-4f33-9661-f9158a8989a6","content":"<h2 style=\"text-align: center;\">Hi, Im puck</h2>"}}],"zones":{}}}
